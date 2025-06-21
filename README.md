@@ -13,7 +13,7 @@ We organize workshops, hackathons, open source projects, and tech talks to empow
 
 ---
 
-## 🚀 What You’ll Learn
+## 🧑🏽‍💻 What You’ll Learn
 
 - ✅ How to use Git and GitHub like a pro
 - 🗂️ Branching, Pull Requests, and Merge Conflicts
@@ -22,7 +22,7 @@ We organize workshops, hackathons, open source projects, and tech talks to empow
 - 📁 Managing teams and collaboration using GitHub Organizations
 - 🌐 Using GitHub Pages to host websites
 - 🔒 Understanding GitHub security, workflows, and project boards
-- 🤝 Running a collaborative project using GitHub tools
+- 🤝🏾 Running a collaborative project using GitHub tools
 
 ---
 
@@ -30,7 +30,7 @@ We organize workshops, hackathons, open source projects, and tech talks to empow
 
 - 🛠️ GitHub Workshop – *Coming Soon*
 - 🌍 Open Source Contributions Drive – *Coming Soon*
-- 🤝 Collab with other university tech clubs - *Coming Soon*
+- 🤝🏾 Collab with other university tech clubs - *Coming Soon*
 - 🎉 End-of-year hackathon - *Coming Soon*
 
 Stay tuned for updates on our events page or GitHub discussions!
@@ -45,7 +45,7 @@ Stay tuned for updates on our events page or GitHub discussions!
 
 ---
 
-## 🙌 Join Us!
+## 🙌🏿Join Us!
 
 Whether you're a beginner or an experienced coder, there's a place for you in our club.  
 Let’s build the future — one line of code at a time 💙
